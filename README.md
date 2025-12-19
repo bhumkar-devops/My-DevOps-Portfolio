@@ -69,7 +69,7 @@ I am a **DevOps Engineer** with hands-on experience in building, automating, and
 
 ## 📫 Contact Me
 
-* GitHub: https://github.com/nikitabhumkar09-hash
+* GitHub: https://github.com/bhumkar-devops
 * Email: nikitabhumkar09@gmail.com
 
 ---
